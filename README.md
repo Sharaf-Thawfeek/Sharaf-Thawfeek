@@ -27,8 +27,3 @@ I'm keen to connect with professionals, mentors, and fellow data science enthusi
 
 </p>
 
-<br>
-
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=sharaf-ahmd&theme=github_dark&show_icons=true&hide_border=true&count_private=true' />
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=sharaf-ahmd&theme=github_dark&hide_border=true' />
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=sharaf-ahmd&theme=github_dark&show_icons=true&hide_border=true&layout=compact' />
