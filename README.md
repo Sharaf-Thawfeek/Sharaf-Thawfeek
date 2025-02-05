@@ -23,7 +23,7 @@ I'm keen to connect with professionals, mentors, and fellow data science enthusi
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sharaf-thawfeek-071b5b27a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharafahamed" height="30" width="40" /></a>
-<a href="https://x.com/sharafahamed_?s=11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharafahamed" height="30" width="40" /></a>
+<a href="https://x.com/Sharaf_Thawfeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharafahamed" height="30" width="40" /></a>
 
 </p>
 
